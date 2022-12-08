@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f02f60d5-9394-44d3-ba9a-450bc3e45373" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/栈/20有效括号.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HznfA2VJxpGHNkEooZ6x7UCIFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;10.24.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;10.17.60&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/didi/Desktop/examine&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f02f60d5-9394-44d3-ba9a-450bc3e45373" name="变更" comment="" />
+      <created>1669296879718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669296879718</updated>
+      <workItem from="1669296881335" duration="1199000" />
+      <workItem from="1669357445030" duration="6750000" />
+      <workItem from="1669380549909" duration="67000" />
+      <workItem from="1669440268326" duration="2355000" />
+      <workItem from="1669464227908" duration="3849000" />
+      <workItem from="1669608115339" duration="771000" />
+      <workItem from="1669706080310" duration="3054000" />
+      <workItem from="1669724010115" duration="4436000" />
+      <workItem from="1669741238625" duration="645000" />
+      <workItem from="1669787773226" duration="6638000" />
+      <workItem from="1669801781450" duration="973000" />
+      <workItem from="1669877379326" duration="8052000" />
+      <workItem from="1669961057173" duration="314000" />
+      <workItem from="1670247937390" duration="543000" />
+      <workItem from="1670310347589" duration="1394000" />
+      <workItem from="1670333144376" duration="688000" />
+      <workItem from="1670424169004" duration="1153000" />
+      <workItem from="1670496592276" duration="473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
